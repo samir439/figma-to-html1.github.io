@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+
+  .nav-link {
+        color: #fff !important;
+        font-size: 20px !important;
+    }
+
+
+
+
+
+    .mainbody {
+        height: 600px;
+        text-align: center;
+        background-image:url(./SMS-Weather-101-1024x683\ 1.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+    }
+
+    .samir{
+       height: 400px;
+       width: 400px;
+       margin-left: -460px;
+       position: absolute;
+    
+    }
+
+    .sam {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .flag {
+        margin-left: 260px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .headline {
+        padding-left: 44px;
+        margin-top: -145px;
+
+    }
+
+    span {
+        color: #EF6EDA;
+    }
+
+   
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:500px) {
+    .samir {
+        margin-left: -134px !important;
+        height: 270px !important;
+        width: 270px !important;
+     margin-top: 95px !important;
+    }
+
+    .d-flex {
+        height: 60px !important;
+    }
+
+    .xavi {
+        margin-left:0px !important;
+        width: 120px !important;
+    }
+    
+    
+}
+
